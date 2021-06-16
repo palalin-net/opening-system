@@ -1,2 +1,2 @@
-# opening-system
+# operating-system
 os
